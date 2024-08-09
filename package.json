@@ -1,0 +1,17 @@
+{
+  "name": "token_swap_gh",
+  "version": "1.0.0",
+  "description": "A script for swapping tokens on Uniswap and depositing them on Aave",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["DeFi", "Uniswap", "Aave", "Ethereum"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2"
+  }
+}
